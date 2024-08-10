@@ -1,0 +1,24 @@
+VST			Virtual Studio Technology
+DAW			Digital Audio Workstation
+Cpp			C++
+DSP			Digital Signal Processing
+CT			Continuous time
+DT			Discrete time
+ADC			Analog to digital converter
+DAC			Digital to analog converter
+GUI			Guided user interface
+UI			User interface
+UX			User eXperience
+.dll			Dynamic link library
+ProJucer
+PluginEditor.cpp
+PluginProcessor.cpp
+PluginEditor.h
+PluginProcessor.h
+.exe			executable
+mingw			Minimalist GNU for Windows
+CMake
+namespace
+
+
+
