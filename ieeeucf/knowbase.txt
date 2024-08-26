@@ -10,15 +10,17 @@ GUI			Guided user interface
 UI			User interface
 UX			User eXperience
 .dll			Dynamic link library
-ProJucer
+.exe			executable
+mingw			Minimalist GNU for Windows
+
+--Older--
+ProJucer instantiates the JUCE Framework source code
+
+The 4 main source files our team is focused on engineering are:
 PluginEditor.cpp
 PluginProcessor.cpp
 PluginEditor.h
 PluginProcessor.h
-.exe			executable
-mingw			Minimalist GNU for Windows
-CMake
-namespace
 
 
 
